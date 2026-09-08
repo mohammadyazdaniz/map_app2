@@ -1,0 +1,153 @@
+TYPE_GROUPS = {
+    # 1. Automotive services
+    "automotive": [
+        "car_repair", "car_related_store", "road_service", "car_oil",
+        "gas_station", "saipa", "iran_khodro", "car_wash",
+        "car_related_service", "vanet_service"
+    ],
+
+    # 2. Industrial and manufacturing
+    "industrial": [
+        "workshop", "factory", "industrial_zone", "plastic_containers_store"
+    ],
+
+    # 3. Offices and businesses
+    "business_office": [
+        "office", "advertising_agency", "software", "commercial_complex",
+        "moving_company"
+    ],
+
+    # 4. Professional services
+    "professional_service": [
+        "real_estate_agency", "insurance_agency", "lawyer",
+        "translation_center", "career_counselor", "studio", "print",
+        "painter"
+    ],
+
+    # 5. General retail
+    "general_retail": [
+        "store", "department_store", "shopping_mall", "tools_shop",
+        "hardware_store", "stationery", "book_store", "news_stand",
+        "pet_store", "sporting_store"
+    ],
+
+    # 6. Clothing and accessories
+    "fashion": [
+        "clothes", "women_clothing_store", "clothes_kids", "shoe",
+        "tailor", "textile_store", "sleep_products_store"
+    ],
+
+    # 7. Jewelry, beauty and personal products
+    "beauty_accessories": [
+        "cosmetics_store", "perfume_shop", "jewelry", "watch_shop",
+        "sunglasses_store", "optic_store"
+    ],
+
+    # 8. Home and furniture
+    "home_goods": [
+        "furniture", "home_goods_store", "home_appliances_service",
+        "carpet_cleaning", "lock"
+    ],
+
+    # 9. Grocery and food retail
+    "food_retail": [
+        "supermarket", "bakery", "dairy_store", "greengrocer",
+        "butcher_shop", "nuts_store", "confectionery",
+        "confectionery_accessories"
+    ],
+
+    # 10. Restaurants and prepared food
+    "food_service": [
+        "restaurant", "cafe", "fast_food", "meal_delivery",
+        "bike_delivery", "barbecue", "tea_room", "juice", "tabbakhi"
+    ],
+
+    # 11. Hospitals and emergency health
+    "hospital_emergency": [
+        "hospital", "ems", "blood_donation_center"
+    ],
+
+    # 12. Clinics and medical care
+    "medical_care": [
+        "clinic", "doctor", "dentist", "medical_lab", "health",
+        "health_center", "rehabilitation_center", "physiotherapist",
+        "fertility_treatment_center", "traditional_medicine",
+        "vaccine"
+    ],
+
+    # 13. Pharmacy and optical care
+    "pharmacy_optical": [
+        "pharmacy", "optician"
+    ],
+
+    # 14. Education and research
+    "education": [
+        "school", "university", "college", "language_institute",
+        "seminary", "student_dormitory", "library"
+    ],
+
+    # 15. Banking and financial services
+    "finance": [
+        "bank", "atm", "exchange"
+    ],
+
+    # 16. Government, law and security
+    "government_security": [
+        "city_hall", "court", "police", "traffic_police",
+        "road_police", "fire_station", "embassy"
+    ],
+
+    # 17. Public and community services
+    "public_service": [
+        "post", "charity", "ngo", "road_helal_ahmar",
+        "drinking_water", "wc"
+    ],
+
+    # 18. Public transportation
+    "public_transport": [
+        "bus_station", "subway_station", "train_station",
+        "transit_station", "taxi", "taxi_service",
+        "bicycle_station", "airport", "airport_related"
+    ],
+
+    # 19. Parking and road facilities
+    "parking_road_facility": [
+        "parking", "road_parking", "entrance"
+    ],
+
+    # 20. Hotels and accommodation
+    "accommodation": [
+        "hotel", "lodging", "lodging_tourist", "campground", "eskan"
+    ],
+
+    # 21. Sports, recreation and wellness
+    "sport_recreation": [
+        "gym", "pool", "spa", "park", "water_park",
+        "amusement_park", "amusement_ride", "entertainment",
+        "interests"
+    ],
+
+    # 22. Culture and attractions
+    "culture_attraction": [
+        "museum", "art", "cinema", "movie_theater", "theater",
+        "movie_rental", "historical", "zoo", "zoo_cage",
+        "aquarium", "stadium", "international_expo"
+    ],
+
+    # 23. Religious places
+    "religion": [
+        "mosque", "church", "worship", "haram", "mukeb", "cemetery"
+    ],
+
+    # 24. Residential and geographic places
+    "settlement_residential": [
+        "residential_complex", "neighborhood", "city", "village",
+        "natural_feature"
+    ],
+
+    # 25. Agriculture, storage and miscellaneous
+    "other": [
+        "agriculture", "storage", "general", "repair", "pin_default",
+        "wedding_related", "travel_agency", "pet_clinic"
+    ]
+}

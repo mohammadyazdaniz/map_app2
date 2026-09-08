@@ -1,0 +1,4079 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61211144924164,
+          36.23160439184211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60887670516968,
+          36.23812509606362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.601988792419434,
+          36.241460959395184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59052503108978,
+          36.24147393913012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5938777923584,
+          36.24532017229327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60483729839325,
+          36.24549322670357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60226237773895,
+          36.24694686862178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.65534329414368,
+          36.24962046083536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59758996963501,
+          36.24965506984359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.594725370407104,
+          36.25126869783418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60100173950195,
+          36.253418708014514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59833025932312,
+          36.25510579731229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.69401001930237,
+          36.25526585261002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59783136844635,
+          36.25573736495967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59957480430603,
+          36.25591904785782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59905445575714,
+          36.25663279801015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.600459933280945,
+          36.25784832113922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60885524749756,
+          36.25795646285018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57958161830902,
+          36.25990298804818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60256278514862,
+          36.26017549770524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.615947008132935,
+          36.26094976598732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57139015197754,
+          36.26148180063733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.604456424713135,
+          36.262359866158164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.676366448402405,
+          36.26251558118064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.594489336013794,
+          36.26319034269071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58508014678955,
+          36.26413326888208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.67043876647949,
+          36.264920473772094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63285565376282,
+          36.26579417540355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.66765999794006,
+          36.26605801407373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.587247371673584,
+          36.26723446418063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6091502904892,
+          36.26778375650682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57488238811493,
+          36.26931483440719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63621914386749,
+          36.26967381160438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57509160041809,
+          36.26976896191008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62576925754547,
+          36.27088048189276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5856112241745,
+          36.27267531538673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53837215900421,
+          36.27277046203484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.603426456451416,
+          36.2736138022563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.614214301109314,
+          36.27369597338058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61908519268036,
+          36.27398140924559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61573779582977,
+          36.27556426192136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.629685282707214,
+          36.27571562593322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57643806934357,
+          36.27607457370244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58859384059906,
+          36.27776117365355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.607943296432495,
+          36.27888122887039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.634674191474915,
+          36.279023937454156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59737002849579,
+          36.279694231856894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.649925231933594,
+          36.280433711262056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63685750961304,
+          36.280468306618246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59585726261139,
+          36.2812164274447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.577478766441345,
+          36.28156670120519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64451253414154,
+          36.283015347594215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62126851081848,
+          36.28365101379041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5933198928833,
+          36.28378938941904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59752559661865,
+          36.28411803055374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54892933368683,
+          36.28427802639477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57791328430176,
+          36.28452450583231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64307487010956,
+          36.28455909937528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57942068576813,
+          36.28506502818925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59167301654816,
+          36.285454201968165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62935268878937,
+          36.28648334105376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59914028644562,
+          36.28664765612189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.574002623558044,
+          36.2869460168085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59409236907959,
+          36.287291940814214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54383850097656,
+          36.287382745611616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57767724990845,
+          36.28821727999211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.513314962387085,
+          36.28879236843819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6305114030838,
+          36.289159903946924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6403443813324,
+          36.290647324090386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60631787776947,
+          36.29094566948416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53786253929138,
+          36.2910105270275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.585965275764465,
+          36.291118622813265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60210680961609,
+          36.29151209020878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.642924666404724,
+          36.291646128099195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50515568256378,
+          36.29201365016582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57208752632141,
+          36.29228604775696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56764578819275,
+          36.29249791189255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59005296230316,
+          36.29255412064829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5648992061615,
+          36.292653566809236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55985128879547,
+          36.292891372332306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.591458439826965,
+          36.29305999762763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52494502067566,
+          36.29317241428871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6458375453949,
+          36.293457778931646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58088517189026,
+          36.2935831660962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.610185623168945,
+          36.29393770802271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61788892745972,
+          36.294024181418905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54236328601837,
+          36.294837026658136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59902226924896,
+          36.2957709234991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62829053401947,
+          36.29584442416479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63610112667084,
+          36.29603898441615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50675964355469,
+          36.29610383772545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52945113182068,
+          36.2963156914934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49247419834137,
+          36.296683191562934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57310140132904,
+          36.297145806836085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50852990150452,
+          36.29742250998729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.585750699043274,
+          36.298499048846956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.591195583343506,
+          36.29852066594097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.619686007499695,
+          36.29855092986252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52470362186432,
+          36.29871089610995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.640655517578125,
+          36.29886653863043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63357448577881,
+          36.29915188244468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53664481639862,
+          36.299290230584944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61782455444336,
+          36.29972689029314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56330060958862,
+          36.30020678081627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5103645324707,
+          36.300703961577526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.583899974823,
+          36.30102820819266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.614686369895935,
+          36.30107576424954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64872896671295,
+          36.301702636834364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63112831115723,
+          36.301741546001146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63785529136658,
+          36.30181936427647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.576754570007324,
+          36.302312211550515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.609203934669495,
+          36.303055799789064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58531081676483,
+          36.303384359775606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57738757133484,
+          36.30345785326737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.646910429000854,
+          36.30357457808253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57159399986267,
+          36.30412361468441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51265513896942,
+          36.30477640120475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57217335700989,
+          36.30532542934565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.578503370285034,
+          36.30566262581542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63412165641785,
+          36.30570153300658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50029015541077,
+          36.30574476319619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56606864929199,
+          36.305749086213844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.602675437927246,
+          36.3059003916804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64460372924805,
+          36.30603440484848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.498348236083984,
+          36.30674337390566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58714544773102,
+          36.30693358401947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.508545994758606,
+          36.306994105322026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59583044052124,
+          36.30734426336472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55232501029968,
+          36.307391815570234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55988347530365,
+          36.307884627628994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50225353240967,
+          36.30793650240137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64224874973297,
+          36.30848983115936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 133,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.580252170562744,
+          36.30904315599083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 134,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56841289997101,
+          36.309363045117806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 135,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59881842136383,
+          36.309501375144634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 136,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50446903705597,
+          36.310824143632324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 137,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49722707271576,
+          36.31082846636837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 138,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58139479160309,
+          36.311035957416806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 139,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57463026046753,
+          36.31149848755818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 140,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.614418148994446,
+          36.311559005317605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 141,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.590251445770264,
+          36.31247541136179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 142,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51502084732056,
+          36.31281689953849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 143,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55070495605469,
+          36.312937932963614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 144,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.63747978210449,
+          36.31296819129054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 145,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.500075578689575,
+          36.31399264485792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 146,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59365785121918,
+          36.314126644117984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 147,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62626814842224,
+          36.314290900961254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 148,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48974370956421,
+          36.31429522350509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 149,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61611866950989,
+          36.31432980384713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 150,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54064130783081,
+          36.314351416553116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 151,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.583996534347534,
+          36.3145805108682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 152,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48456168174744,
+          36.31478799193108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 153,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56020534038544,
+          36.314852829649986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 154,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54136550426483,
+          36.31493063484148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 155,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53969717025757,
+          36.31523320984802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 156,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.660359025001526,
+          36.31580809912493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 157,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.540517926216125,
+          36.31582538896232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 158,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50902879238129,
+          36.31586429108244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 159,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.580718874931335,
+          36.31593777281191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55835998058319,
+          36.31609338095155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 161,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.477866888046265,
+          36.31620576441478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 162,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57591235637665,
+          36.31629653555525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 163,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58591163158417,
+          36.3164089187256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 164,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60879623889923,
+          36.31660342767599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 165,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.68202590942383,
+          36.316681231120256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62786674499512,
+          36.316867094589426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55147743225098,
+          36.317532741517745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 168,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61810350418091,
+          36.317558675698606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 169,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.554363489151,
+          36.31793904269326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 170,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.551520347595215,
+          36.318111936168144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 171,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4932359457016,
+          36.318198382761786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 172,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.471129179000854,
+          36.318289151581915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 173,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54607546329498,
+          36.31847933352898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 174,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.623392820358276,
+          36.31866519271073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50425982475281,
+          36.318691126514814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 176,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56519424915314,
+          36.31955558171334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 177,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58954870700836,
+          36.32005696133552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 178,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.619702100753784,
+          36.320160694647775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 179,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60379123687744,
+          36.32058427090664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 180,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55469071865082,
+          36.321427094370335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 181,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.61589336395264,
+          36.321677778565025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 182,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49738800525665,
+          36.32276694880716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 183,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58584189414978,
+          36.324067882202975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 184,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.569995403289795,
+          36.324106780209334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 185,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.526570439338684,
+          36.32437474372558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 186,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.482818245887756,
+          36.32440067562987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 187,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56339180469513,
+          36.3245260130456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 188,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.555034041404724,
+          36.32501871679506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 189,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.548017382621765,
+          36.325476842047884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 190,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54381704330444,
+          36.325615143481734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 191,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.609949588775635,
+          36.32594360840341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 192,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54466998577118,
+          36.32622453125114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 193,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54446613788605,
+          36.32623749689659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 194,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54241156578064,
+          36.32628071569916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 195,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53464925289154,
+          36.326315290723954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 196,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59563195705414,
+          36.32650113121941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 197,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54322159290314,
+          36.32687281088067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 198,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51814830303192,
+          36.327015431675385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 199,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.535024762153625,
+          36.32770260093646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 200,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59837853908539,
+          36.329465875464706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 201,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51045036315918,
+          36.32949180567475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 202,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.64618623256683,
+          36.32986347107046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 203,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59005832672119,
+          36.33050307713546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 204,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.520068764686584,
+          36.331021672793014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 205,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57793474197388,
+          36.33162237511466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 206,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50349271297455,
+          36.33166126934994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 207,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60086226463318,
+          36.33180388137981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 208,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.560521841049194,
+          36.33189463435382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 209,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51201677322388,
+          36.3336318851888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 210,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49675500392914,
+          36.3337615292201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 211,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58116948604584,
+          36.33466903139818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 212,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.505338072776794,
+          36.335472810213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 213,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.625704884529114,
+          36.33553330935807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 214,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52150642871857,
+          36.33594815937276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 215,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59378659725189,
+          36.33619879685268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 216,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5376318693161,
+          36.337110591915845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 217,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.57458198070526,
+          36.33753407604051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 218,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.62604820728302,
+          36.33765507108182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 219,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.488102197647095,
+          36.337663713577584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 220,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.496561884880066,
+          36.33813040692451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 221,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.531280398368835,
+          36.338234116177425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 222,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58518743515015,
+          36.33849338870557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 223,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.55371975898743,
+          36.338929828845444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 224,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.551493525505066,
+          36.339271201111714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 225,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.522584676742554,
+          36.33976381161808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 226,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48341906070709,
+          36.34033851993766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 227,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53191339969635,
+          36.34055889568723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 228,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60849583148956,
+          36.341068782285966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 229,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50769305229187,
+          36.34114224024966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 230,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58110511302948,
+          36.34143607141159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 231,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.489813446998596,
+          36.34157866554653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 232,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48421835899353,
+          36.341984841348335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 233,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.589999318122864,
+          36.3428533590933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 234,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.569721817970276,
+          36.34339779811379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 235,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58951115608215,
+          36.34347125388071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 236,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.59109902381897,
+          36.34355335142055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 237,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.590750336647034,
+          36.34404593484207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 238,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56834852695465,
+          36.34497924225393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 239,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56416964530945,
+          36.347506893655144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 240,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56614375114441,
+          36.347653797367464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 241,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.564759731292725,
+          36.34867347432009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 242,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.566529989242554,
+          36.34891975022601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 243,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.5216566324234,
+          36.34917034596224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 244,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48191165924072,
+          36.35157688808693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 245,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51352417469025,
+          36.35177995017713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 246,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50712978839874,
+          36.351935486739066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 247,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.501577615737915,
+          36.35207806164785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 248,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.488118290901184,
+          36.352121266114125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 249,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49742555618286,
+          36.352181752326615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 250,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52000975608826,
+          36.35332234067775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 251,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.535024762153625,
+          36.35498566873415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 252,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56636369228363,
+          36.356095974434965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 253,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.526044726371765,
+          36.35638974916926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 254,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51874375343323,
+          36.35653663612062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 255,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52466070652008,
+          36.35816965473193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 256,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.498069286346436,
+          36.358294937813476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 257,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49154078960419,
+          36.35858006407489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 258,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51741874217987,
+          36.3591416733531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 259,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.507542848587036,
+          36.359241034572726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 260,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.53166663646698,
+          36.359241034572726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 261,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.522584676742554,
+          36.36085239664223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 262,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49596107006073,
+          36.36090423615489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 263,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52923119068146,
+          36.36194533905694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.463860392570496,
+          36.362165653653165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 265,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50667381286621,
+          36.36279635473504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 266,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47328567504883,
+          36.363271537105284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 267,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52063739299774,
+          36.36335793358814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 268,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52798664569855,
+          36.363591203612714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 269,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50367510318756,
+          36.364528596475274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 270,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54847872257233,
+          36.36467978781493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 271,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.511598348617554,
+          36.36489577493343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 272,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.46805536746979,
+          36.3656949220591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 273,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.526050090789795,
+          36.36609665237905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 274,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.51822876930237,
+          36.36648110203337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 275,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48067784309387,
+          36.366632289579286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 276,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52460169792175,
+          36.367967046882114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 277,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50871229171753,
+          36.36854586655578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 278,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47250247001648,
+          36.369491838693065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 279,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48442757129669,
+          36.36969917351518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 280,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54487383365631,
+          36.37047667417707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 281,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.529810547828674,
+          36.370770394627186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 282,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.4880485534668,
+          36.37274434005914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 283,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.464380741119385,
+          36.373418148039434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 284,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.511088728904724,
+          36.374623213143195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 285,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.54258859157562,
+          36.37505945074689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 286,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49199140071869,
+          36.376126278935565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 287,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.48115527629852,
+          36.37688643908172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 288,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.473092555999756,
+          36.38169341614429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 289,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.531800746917725,
+          36.38198709424067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 290,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.47805464267731,
+          36.38495836319209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 291,
+        "type": "traffic_light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.50843334197998,
+          36.40126808888506
+        ]
+      }
+    }
+  ]
+}

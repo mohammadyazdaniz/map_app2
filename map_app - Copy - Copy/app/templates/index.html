@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Platform</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗺️</text></svg>">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div id="app">
+        <aside id="sidebar">
+            <header id="sidebar-header">
+                <h1>Map Platform</h1>
+                <div id="city-selector">
+                    <button class="city-btn active" data-city="Tehran">Tehran</button>
+                    <button class="city-btn" data-city="Isfahan">Isfahan</button>
+                    <button class="city-btn" data-city="Mashhad">Mashhad</button>
+                </div>
+                <div id="feature-count"></div>
+            </header>
+
+            <div id="search-box">
+                <input id="search-input" type="text" placeholder="Search visible features..." aria-label="Search visible features" autocomplete="off">
+                <div id="search-results"></div>
+            </div>
+
+            <div id="layers-panel"></div>
+
+            <footer id="sidebar-footer">
+                <button id="clear-filters" type="button">Clear All Filters</button>
+            </footer>
+        </aside>
+
+        <main id="map" aria-label="Map"></main>
+        <div id="map-notice" role="status" aria-live="polite" hidden></div>
+
+        <!-- ETA modal: shown centered over the whole page -->
+        <div id="eta-modal" style="display:none;">
+            <div id="eta-panel" role="dialog" aria-modal="true" aria-label="Bus arrivals">
+                <div class="eta-header">
+                    <h3>Bus Arrivals</h3>
+                    <button id="close-eta" class="close-btn" type="button" aria-label="Close bus arrivals">&times;</button>
+                </div>
+                <div class="eta-info">
+                    <p><strong>Station:</strong> <span id="eta-station-name"></span></p>
+                    <p><strong>Code:</strong> <span id="eta-station-code"></span></p>
+                </div>
+                <div id="eta-status" class="status loading">Loading...</div>
+                <div id="eta-list"></div>
+                <p class="eta-hint">Auto-refreshes every 30s</p>
+            </div>
+        </div>
+
+        <div id="loading-overlay">
+            <div id="loading-box">
+                <div class="spinner" aria-hidden="true"></div>
+                <div id="loading-text" role="status">Loading data...</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="/static/app.js"></script>
+    <noscript>This map requires JavaScript. Enable it and reload this page.</noscript>
+</body>
+</html>

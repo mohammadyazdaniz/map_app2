@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- housing -->
+  <rect x="66" y="18" width="68" height="140" rx="16" fill="#141821" stroke="#e94560" stroke-width="7"/>
+  <!-- red -->
+  <circle cx="100" cy="52" r="17" fill="#ff4136"/>
+  <circle cx="94" cy="46" r="5" fill="#ff8a80" opacity="0.85"/>
+  <!-- amber -->
+  <circle cx="100" cy="92" r="17" fill="#ffb300"/>
+  <circle cx="94" cy="86" r="5" fill="#ffd54a" opacity="0.85"/>
+  <!-- green -->
+  <circle cx="100" cy="132" r="17" fill="#2ecc71"/>
+  <circle cx="94" cy="126" r="5" fill="#7bf1a8" opacity="0.85"/>
+  <!-- mounting cap -->
+  <rect x="86" y="158" width="28" height="12" rx="4" fill="#e94560"/>
+</svg>
